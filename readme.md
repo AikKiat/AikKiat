@@ -1,12 +1,13 @@
 # Hello There. I am Thng Aik Kiat, Fullstack Developer. 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=[Your+Tagline+Here];[Another+Cool+Line])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=435&lines=[Fullstack+Developer];[AI+Applications])](https://git.io/typing-svg)
 
 ---
 
 ## About Me
-
+- Computer Science @Singapore University of Technology and Design, Minor in AI.
 - I like to build things. Building things is my passion. 🧱 Having played lots of lego in the past, now I view building software products as my new legos. 🧩💻
+- If there is a viable cause for it I like to use AI to supercharge my projects, in ways that add tangible value to the purpose that my solutions want to bring.
 
 ---
 
