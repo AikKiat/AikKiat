@@ -2,8 +2,6 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6366F1&width=435&lines=[Fullstack+Developer];[AI+Applications])](https://git.io/typing-svg) -->
 
----
-
 ### Computer Science, **Singapore University of Technology and Design**, **Minor in AI**.
 ---
  I like to **build things**. Building things is my passion. 🧱 Having played lots of **lego** in the past, now I view building software products as my **new legos**. 🧩💻
