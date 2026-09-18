@@ -13,6 +13,17 @@
 
 ---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AikKiat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Aik Kiat's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AikKiat&theme=tokyo-night&hide_border=true&area=true" alt="Aik Kiat's contribution activity graph" />
+</p>
+
 ## 🛠️ Key Tech Stack
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
