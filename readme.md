@@ -6,8 +6,6 @@
 ---
  I like to **build things**. Building things is my passion. 🧱 Having played lots of **lego** in the past, now I view building software products as my **new legos**. 🧩💻
 <br></br>
- If there is a **viable cause** for it I like to use AI to **supercharge my projects**, in ways that **add tangible value** to the **purpose** my solutions are meant to bring.
-<br></br>
  Currently, I am taking security courses in school so that I can **round off** my understanding of the software developement ecosystem, also **complementing** my main skills.
 
 
@@ -16,8 +14,8 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AikKiat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Aik Kiat's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="165" src="https://github-readme-activity-graph-blush-ten.vercel.app/api?username=AikKiat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Some Stats --->" />
+  <img height="165" src="https://github-readme-stats-eight-phi-46.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="My IT speak ---> " />
 </p>
 
 <p align="center">
