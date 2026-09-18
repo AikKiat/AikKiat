@@ -13,10 +13,7 @@
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  [!Some stats:](https://github-stats-extended.vercel.app/api?username=AikKiat)](https://github.com/stats-organization/github-stats-extended)
-  <!-- <img height="165" src="https://github-readme-stats-eight-phi-46.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="My IT speak ---> " /> -->
-</p>
+[!Some stats:](https://github-stats-extended.vercel.app/api?username=AikKiat)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AikKiat&theme=tokyo-night&hide_border=true&area=true" alt="Aik Kiat's contribution activity graph" />
