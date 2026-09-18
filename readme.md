@@ -18,6 +18,9 @@
 [![Playtime Stats](https://github-stats-extended.vercel.app/api?username=AikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 
+[![An Enthusiast's Footprints](https://github-readme-activity-graph.vercel.app/graph?username=AikKiat)](https://github.com/AikKiat/github-readme-activity-graph)
+
+
 ## 🛠️ Key Tech Stack
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
