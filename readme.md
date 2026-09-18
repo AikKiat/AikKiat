@@ -3,12 +3,13 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=6366F1&width=435&lines=[Fullstack+Developer];[AI+Applications])](https://git.io/typing-svg) -->
 
 ### Computer Science, **Singapore University of Technology and Design**, **Minor in AI**.
+
+#WELCOME, ESTEEMED VIEWER
 ---
  I like to **build things**. Building things is my passion. 🧱 Having played lots of **lego** in the past, now I view building software products as my **new legos**. 🧩💻
 <br></br>
- Currently, I am taking security courses in school so that I can **round off** my understanding of the software developement ecosystem, also **complementing** my main skills.
 
-
+Cheers to building, tinkering and having fun :)
 ---
 
 ## 📊 GitHub Dashboard
