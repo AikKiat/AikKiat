@@ -14,8 +14,8 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-activity-graph-blush-ten.vercel.app/api?username=AikKiat&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Some Stats --->" />
-  <img height="165" src="https://github-readme-stats-eight-phi-46.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="My IT speak ---> " />
+  [!Some stats:](https://github-stats-extended.vercel.app/api?username=AikKiat)](https://github.com/stats-organization/github-stats-extended)
+  <!-- <img height="165" src="https://github-readme-stats-eight-phi-46.vercel.app/api/top-langs/?username=AikKiat&layout=compact&hide_border=true&theme=tokyonight" alt="My IT speak ---> " /> -->
 </p>
 
 <p align="center">
