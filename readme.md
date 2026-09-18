@@ -13,7 +13,10 @@
 
 ## 📊 GitHub Dashboard
 
-[![Some stats:](https://github-stats-extended.vercel.app/api?username=AikKiat)](https://github.com/stats-organization/github-stats-extended)
+[![Digital Speak](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=synthwave)
+
+[![Playtime Stats](https://github-stats-extended.vercel.app/api?username=aAikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=aAikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 
 ## 🛠️ Key Tech Stack
 ### Frontend:
