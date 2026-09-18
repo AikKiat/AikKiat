@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Dashboard
 
-[![Digital Speak](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=synthwave)](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=tokyonight)
+[![Digital Speak](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=AikKiat&layout=pie&langs_count=4&hide_values=true&theme=tokyonight)
 
 [![Playtime Stats](https://github-stats-extended.vercel.app/api?username=AikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AikKiat&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
