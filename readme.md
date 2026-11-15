@@ -26,7 +26,7 @@ Cheers to building, tinkering and having fun :)
 
 <p>
   <a href="https://github.com/AikKiat/convo_banking"
-     title="Continuous LLM Efficacy Improvement Benchmark in Conversational Banking Scenarios -&#10;&#10;Simple Research Project for improving LLM efficacy in Conversational Banking using DsPy.&#10;&#10;Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) server.">
+     title="Continuous LLM Efficacy Improvement Benchmark in Conversational Banking Scenarios &#10;&#10;Simple Research Project for improving LLM efficacy in Conversational Banking using DsPy.&#10;&#10;Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) server.">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=AikKiat&amp;repo=convo_banking&amp;show_owner=true&amp;description_lines_count=3&amp;theme=catppuccin_mocha"
          alt="GitHub Stats">
   </a>
