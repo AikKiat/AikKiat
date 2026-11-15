@@ -22,7 +22,11 @@ Cheers to building, tinkering and having fun :)
  [![An Enthusiast's Footprints](https://github-readme-activity-graph-blush-ten.vercel.app/graph?username=AikKiat)](https://github.com/AikKiat/github-readme-activity-graph)
 <!-->
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=convo_banking&show_owner=true&description_lines_count=3&theme=catppuccin_mocha)](https://github.com/AikKiat/convo_banking)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=SimpleEnergyMarketSimulator-European-&show_owner=true&description_lines_count=3&disable_animations=false&theme=catppuccin_mocha)](https://github.com/AikKiat/SimpleEnergyMarketSimulator-European-)
+
+
 
 
 
