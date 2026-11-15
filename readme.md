@@ -22,8 +22,15 @@ Cheers to building, tinkering and having fun :)
  [![An Enthusiast's Footprints](https://github-readme-activity-graph-blush-ten.vercel.app/graph?username=AikKiat)](https://github.com/AikKiat/github-readme-activity-graph)
 <!-->
 
+## Some recent work I've done (For fun, personal learning):
+### Continuous LLM Efficacy Improvement Benchmark in Conversational Banking Scenarios:
+> Simple Research Project for improving LLM efficacy in Conversational Banking using DsPy
+> Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) server.
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=convo_banking&show_owner=true&description_lines_count=3&theme=catppuccin_mocha)](https://github.com/AikKiat/convo_banking)
 
+### Simple Energy Market Simulator (3D): 
+> Visualising how the commodities market drives Energy Dispatch in Powerplants. Done as part of my sudden interest in the Energy power market as a step to the overall global financial trading ecosystem.
+> > Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) backend server, talking to T3.small running hosted ollama qwen2.5:3b model
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=SimpleEnergyMarketSimulator-European-&show_owner=true&description_lines_count=3&disable_animations=false&theme=catppuccin_mocha)](https://github.com/AikKiat/SimpleEnergyMarketSimulator-European-)
 
 
