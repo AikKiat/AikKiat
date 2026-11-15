@@ -34,7 +34,7 @@ Cheers to building, tinkering and having fun :)
 
 <p>
   <a href="https://github.com/AikKiat/SimpleEnergyMarketSimulator-European-"
-     title="Simple Energy Market Simulator (3D) —&#10;&#10;Visualising how the commodities market drives Energy Dispatch in Powerplants. Done as part of my sudden interest in the Energy power market as a step to the overall global financial trading ecosystem.&#10;&#10;Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) backend server, talking to T3.small running hosted ollama qwen2.5:3b model.">
+     title="Simple Energy Market Simulator (3D) &#10;&#10;Visualising how the commodities market drives Energy Dispatch in Powerplants. Done as part of my sudden interest in the Energy power market as a step to the overall global financial trading ecosystem.&#10;&#10;Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) backend server, talking to T3.small running hosted ollama qwen2.5:3b model.">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=AikKiat&amp;repo=SimpleEnergyMarketSimulator-European-&amp;show_owner=true&amp;description_lines_count=3&amp;disable_animations=false&amp;theme=catppuccin_mocha"
          alt="GitHub Stats">
   </a>
