@@ -22,12 +22,19 @@ Cheers to building, tinkering and having fun :)
  [![An Enthusiast's Footprints](https://github-readme-activity-graph-blush-ten.vercel.app/graph?username=AikKiat)](https://github.com/AikKiat/github-readme-activity-graph)
 <!-->
 
-## Some recent work I've done (For fun, personal learning):
+<h2>Some recent work I've done (for fun, personal learning)</h2>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=convo_banking&show_owner=true&description_lines_count=3&theme=catppuccin_mocha)](https://github.com/AikKiat/convo_banking "Continuous LLM Efficacy Improvement Benchmark in Conversational Banking Scenarios — Simple Research Project for improving LLM efficacy in Conversational Banking using DsPy. Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) server.")
+<a href="https://github.com/AikKiat/convo_banking"
+   title="Continuous LLM Efficacy Improvement Benchmark in Conversational Banking Scenarios&#10;&#10;Research project using DSPy to improve LLM performance in conversational banking.&#10;&#10;Infra — Vercel frontend, Cloudflare domain, and Nginx as a reverse proxy to an AWS-hosted backend.">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=AikKiat&amp;repo=convo_banking&amp;show_owner=true&amp;description_lines_count=3&amp;theme=catppuccin_mocha"
+       alt="Conversational Banking LLM Benchmark">
+</a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=AikKiat&repo=SimpleEnergyMarketSimulator-European-&show_owner=true&description_lines_count=3&disable_animations=false&theme=catppuccin_mocha)](https://github.com/AikKiat/SimpleEnergyMarketSimulator-European- "Simple Energy Market Simulator (3D) — Visualising how the commodities market drives Energy Dispatch in Powerplants. Done as part of my sudden interest in the Energy power market as a step to the overall global financial trading ecosystem. Frontend on Vercel, backend on registered Cloudflare Domain, Nginx as reverse-proxy to AWS hosted (free) backend server, talking to T3.small running hosted ollama qwen2.5:3b model.")
-
+<a href="https://github.com/AikKiat/SimpleEnergyMarketSimulator-European-"
+   title="Simple Energy Market Simulator (3D)&#10;&#10;Visualises how commodity markets drive power plant dispatch. I built it to explore electricity markets and get a feel for the wider trading ecosystem.&#10;&#10;Infra — Vercel frontend, Cloudflare domain, Nginx as a reverse proxy to an AWS-hosted backend, and Qwen 2.5 3B running via Ollama on a t3.small.">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=AikKiat&amp;repo=SimpleEnergyMarketSimulator-European-&amp;show_owner=true&amp;description_lines_count=3&amp;disable_animations=false&amp;theme=catppuccin_mocha"
+       alt="Simple Energy Market Simulator (3D)">
+</a>
 
 
 
